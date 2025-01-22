@@ -9,7 +9,7 @@
 project = 'B6x Docs'
 copyright = '2023-2025, XIAOMAN'
 author = 'XIAOMAN-AI'
-release = '1.0'
+release = ''
 
 # -- General configuration ---------------------------------------------------
 # The master toctree document.

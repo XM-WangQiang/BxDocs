@@ -6,10 +6,10 @@
    :maxdepth: 1
    :caption: SDK 获取
 
-   sdk
+   sdk/sdk
 
 .. note::
-   :download:`下载sdk <release/bleSDK6_v1.4.5.zip>`
+   :download:`下载sdk <sdk/bleSDK6_v1.4.5.zip>`
 
 .. toctree::
    :maxdepth: 2
