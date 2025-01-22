@@ -1,0 +1,7 @@
+.. vim: syntax=rst
+
+电气特性
+========
+.. image:: ../images/dc_ac.png
+   :width: 100%
+   :align: center
