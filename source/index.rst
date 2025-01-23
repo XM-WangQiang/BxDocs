@@ -26,3 +26,5 @@
 
 .. note::
    :download:`下载datasheet <datasheet/B6x_DataSheet_v3.2.docx>`
+
+   | 最新版本为 **v3.2**, 修改日期为 **2025年1月10日**
