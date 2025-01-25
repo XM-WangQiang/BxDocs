@@ -1,4 +1,4 @@
-# Bx 相关资源
+# B6x 相关资源
 
 <div align="center">
     <a href="http://xiao-man.com/">
@@ -12,4 +12,4 @@
 - [B6xSDK Github镜像站](https://dgithub.xyz/XIAOMANSDK/B6x)
 
 ## Docs
-- [B6x_Docs](https://bx-docs.readthedocs.io/zh-cn/latest/)
+- [B6x_Docs](https://bx-docs.readthedocs.io/)
