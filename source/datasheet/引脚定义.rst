@@ -4,27 +4,27 @@
 QFN20-B63
 ~~~~~~~~~
 
-.. image:: ../images/QFN20-B63.png
+.. image:: ../_images/QFN20-B63.png
    :width: 100%
    :align: center
 
 QFN32-B66
 ~~~~~~~~~
 
-.. image:: ../images/QFN32-B66.png
+.. image:: ../_images/QFN32-B66.png
    :width: 100%
    :align: center
 
 SOP16-B62
 ~~~~~~~~~
 
-.. image:: ../images/SOP16-B62.png
+.. image:: ../_images/SOP16-B62.png
    :width: 100%
    :align: center
 
 eSOP8-B61
 ~~~~~~~~~
 
-.. image:: ../images/ESOP8-B61.png
+.. image:: ../_images/ESOP8-B61.png
    :width: 100%
    :align: center

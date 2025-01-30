@@ -140,6 +140,6 @@
 
 框图
 ----
-.. image:: ../images/block.png
+.. image:: ../_images/block.png
    :width: 100%
    :align: center

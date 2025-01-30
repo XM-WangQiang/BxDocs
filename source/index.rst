@@ -28,3 +28,21 @@
    :download:`下载datasheet <datasheet/B6x_DataSheet_v3.2.docx>`
 
    | 最新版本为 **v3.2**, 修改日期为 **2025年1月10日**
+
+.. toctree::
+   :maxdepth: 2
+   :caption: 硬件设计指导
+   :titlesonly:
+   :numbered:
+
+   hardware/Layout注意事项
+   hardware/PCB设计问题分析
+   hardware/常用天线设计
+   hardware/天线匹配调试
+   hardware/B6x开发板资源初探
+   hardware/典型Layout设计错误(必看).rst
+
+.. note::
+   | :download:`下载常用天线库.PcbLib <hardware/常用天线库.PcbLib>`
+   | :download:`下载硬件设计指导 <hardware/硬件设计指导.docx>`
+   | :download:`下载典型Layout设计错误(必看) <hardware/典型Layout设计错误(必看).docx>`

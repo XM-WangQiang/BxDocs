@@ -1,49 +1,19 @@
-.. vim: syntax=rst
-
 参考设计
 ========
 
 
-.. image:: ../images/refer1.png
-.. image:: ../images/refer2.png
+.. image:: ../_images/refer1.png
+.. image:: ../_images/refer2.png
    :width: 100%
    :align: center
 
-.. list-table::
-   :widths: 25 25 25 25
-   :header-rows: 0
-
-   * - **Designator**
-     - **Value**
-     - **Description**
-     - **Footprint**
-
-   * - C1
-     - 10nF
-     - Capacitor, X7R, ±10%
-     - 0402
-
-   * - C2, C3
-     - NC
-     -
-     -
-
-   * - C4
-     - 2.2pF
-     - Capacitor, X7R, ±10%
-     - 0402
-
-   * - C5
-     - 4.7uF
-     - Capacitor, X7R, ±10%
-     - 0402
-
-   * - C6
-     - 100nF
-     - Capacitor, X7R, ±10%
-     - 0402
-
-   * - X1
-     - 16MHz
-     - XTAL SMD 3225, 16MHz, Cl=9pF, 40Ω, ±10ppm
-     - Seam Seal 3225
+========== ===== =============================== ==================
+Designator Value Description                     Footprint
+========== ===== =============================== ==================
+C1         10nF  Capacitor,X7R,±10%              0402
+C2,C3      NC
+C4         2.2PF Capacitor,X7R,±10%              0402
+C5         4.7uF Capacitor,X7R,±10%              0402
+C6         100nF Capacitor,X7R,±10%              0402
+X1         16MHz XTAL SMD3225,Cl=9pF,40Ω,±10ppm  Seam Seal 3225
+========== ===== =============================== ==================
