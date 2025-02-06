@@ -49,5 +49,6 @@ language = 'zh_CN'
 
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
-html_favicon = "./images/xm_favicon.ico"
+html_favicon = "./_images/xm_favicon.ico"
 html_theme = 'sphinx_rtd_theme'
+html_static_path = ['_images']

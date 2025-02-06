@@ -2,7 +2,7 @@
 
 <div align="center">
     <a href="http://xiao-man.com/">
-        <img src="source/images/xm_logo.png" alt="XM Logo" width="30%">
+        <img src="source/_images/xm_logo.png" alt="XM Logo" width="30%">
     </a>
 </div>
 

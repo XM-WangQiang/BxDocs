@@ -6,10 +6,10 @@ I/O 功能复用与联接
 PIN说明与复用信号
 ------------------
 
-.. image:: ../images/pin_map.png
+.. image:: ../_images/pin_map.png
    :width: 100%
    :align: center
-.. image:: ../images/pin_map_desc.png
+.. image:: ../_images/pin_map_desc.png
    :width: 100%
    :align: center
 
