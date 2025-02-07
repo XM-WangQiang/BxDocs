@@ -39,7 +39,7 @@
    hardware/PCB设计问题分析
    hardware/常用天线设计
    hardware/天线匹配调试
-   hardware/B6x开发板资源初探
+   hardware/QFN32开发板资源初探
    hardware/典型Layout设计错误(必看).rst
 
 .. note::
