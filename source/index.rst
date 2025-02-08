@@ -38,7 +38,6 @@
    hardware/Layout注意事项
    hardware/PCB设计问题分析
    hardware/常用天线设计
-   hardware/天线匹配调试
    hardware/QFN32开发板资源初探
    hardware/典型Layout设计错误(必看).rst
 
@@ -46,3 +45,16 @@
    | :download:`下载常用天线库.PcbLib <hardware/常用天线库.PcbLib>`
    | :download:`下载硬件设计指导 <hardware/硬件设计指导.docx>`
    | :download:`下载典型Layout设计错误(必看) <hardware/典型Layout设计错误(必看).docx>`
+   | :download:`下载开发板使用说明 <hardware/开发板使用说明.docx>`
+
+.. toctree::
+   :maxdepth: 2
+   :caption: 天线阻抗匹配和频偏调试
+   :titlesonly:
+   :numbered:
+
+   hardware/天线匹配电路调试方法
+   hardware/芯片晶振频偏校准方法
+
+.. note::
+   | :download:`下载B6x阻抗-频偏调试方法 <hardware/B6x阻抗-频偏调试方法.rar>`
