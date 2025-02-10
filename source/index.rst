@@ -49,7 +49,7 @@
 
 .. toctree::
    :maxdepth: 2
-   :caption: 天线阻抗匹配和频偏调试
+   :caption: 天线阻抗匹配和晶振频偏校准
    :titlesonly:
    :numbered:
 
