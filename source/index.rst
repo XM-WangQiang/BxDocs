@@ -58,3 +58,16 @@
 
 .. note::
    | :download:`下载B6x阻抗-频偏调试方法 <hardware/B6x阻抗-频偏调试方法.rar>`
+
+.. toctree::
+   :maxdepth: 1
+   :caption: SW Spec
+   :titlesonly:
+   :numbered:
+
+   software/io_map
+   software/flash_map
+
+.. note::
+   | :download:`下载B6x IO MAP <software/B6x_IO_MAP.xlsx>`
+   | :download:`下载B6x Flash Map <software/B6x-Flash-Map.xlsx>`
