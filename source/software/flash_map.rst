@@ -3,7 +3,7 @@ Flash Map
 
 .. line-block::
 
-  以Flash大小为256KB为例(封装不同, Flash大小不同), 分为 **DATA Region** 和 **CODE Region**.
+  以Flash大小为256KB为例( :ref:`封装不同, Flash大小不同.<sip_flash_label>` ), 分为 **DATA Region** 和 **CODE Region**.
 
   1. **DATA Region** 用于存放数据, 其中Page0~Page14为烧录的boot启动信息(LoadInfo), Page15为芯片出厂烧录的电压校准信息(trimVal). Page16 ~ Page63为用户自定义数据存储区域, 用于存放用户自定义数据, 如Ble Mac, LTK等.
 

@@ -46,6 +46,8 @@
 
   - 所有端点的FIFO深度64字节
 
+.. _sip_flash_label:
+
 - 片上存储器
 
   - 4KB ROM
