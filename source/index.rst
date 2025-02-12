@@ -8,9 +8,6 @@
 
    sdk/sdk
 
-.. note::
-   :download:`下载sdk <sdk/bleSDK6_v1.4.5.zip>`
-
 .. toctree::
    :maxdepth: 2
    :caption: DataSheet
