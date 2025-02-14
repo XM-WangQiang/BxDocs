@@ -14,7 +14,7 @@ Layout设计错误样例(必看)
 
    电流功耗图
 
-原因分析: VDD12&晶振的GND, 回流芯片距离太长。如图
+**原因分析:** VDD12&晶振的GND, 回流芯片距离太长。如图
 
 .. figure:: ../_images/typical_image2.png
    :alt: typical_image2
@@ -23,7 +23,7 @@ Layout设计错误样例(必看)
 
    PCB走线图
 
-解决办法: GND跳线, 缩短GND的回流距离。如图:
+**解决办法:** GND跳线, 缩短GND的回流距离。如图:
 
 .. figure:: ../_images/typical_image3.png
    :alt: typical_image3

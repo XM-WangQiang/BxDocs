@@ -20,22 +20,11 @@ master_doc = 'index'
 
 # The suffix(es) of source filenames.
 # You can specify multiple suffix as a list of string:
-source_suffix = ['.rst', 'rest', '.md']
+source_suffix = ['.rst']
 
 extensions = [
-    'sphinx.ext.duration',
-    'sphinx.ext.doctest',
-    'sphinx.ext.autodoc',
-    'sphinx.ext.autosummary',
-    'sphinx.ext.intersphinx',
     'sphinx.ext.autosectionlabel',
-    'recommonmark',
-    'sphinx_markdown_tables',
 ]
-
-source_parsers = {
-    '.md': 'recommonmark.parser.CommonMarkParser',
-}
 
 intersphinx_disabled_domains = ['std']
 
@@ -43,7 +32,7 @@ templates_path = ['_templates']
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
 # This pattern also affects html_static_path and html_extra_path.
-exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
+exclude_patterns = []
 
 language = 'zh_CN'
 

@@ -27,10 +27,10 @@ PADA19 RST,Pull-Up     PA19   CSC
 ====== =============== ====== === =========== ============== ======= ================
 
 说明:
-    1. **Default** 为芯片上电IO默认功能.
-    2. **GPIO** 为普通IO模式.
-    3. **CSC** 为IO复用功能, 表示可以复用为UART/SPI/IIC/CTMR(CH1和CH2)的脚位功能.
-    4. **Special** 为特殊功能, 其中PA05的CLK_OUT可以用来输出时钟.
-    5. **Timer** 是固定IO. I表示输入, O表示输出.
-    6. **ANAFunc** 为模拟功能, 主要是用于ADC. 注意PA03的模拟功能为语音输入.
-    7. **PAD Connect** 为IO的物理连接, PA06和PA07可以配置为USB的DP和DM.
+    #. **Default** 为芯片上电IO默认功能.
+    #. **GPIO** 为普通IO模式.
+    #. **CSC** 为IO复用功能, 表示可以复用为UART/SPI/IIC/CTMR(CH1和CH2)的脚位功能.
+    #. **Special** 为特殊功能, 其中PA05的CLK_OUT可以用来输出时钟.
+    #. **Timer** 是固定IO. I表示输入, O表示输出.
+    #. **ANAFunc** 为模拟功能, 主要是用于ADC. 注意PA03的模拟功能为语音输入.
+    #. **PAD Connect** 为IO的物理连接, PA06和PA07可以配置为USB的DP和DM.
