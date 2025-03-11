@@ -41,3 +41,5 @@ language = 'zh_CN'
 html_favicon = "./_images/xm_favicon.ico"
 html_theme = 'sphinx_rtd_theme'
 html_static_path = ['_images']
+html_show_sphinx = False
+html_title = ''
