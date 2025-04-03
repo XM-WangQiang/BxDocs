@@ -34,3 +34,8 @@ PADA19 RST,Pull-Up     PA19   CSC
     #. **Timer** 是固定IO. I表示输入, O表示输出.
     #. **ANAFunc** 为模拟功能, 主要是用于ADC. 注意PA03的模拟功能为语音输入.
     #. **PAD Connect** 为IO的物理连接, PA06和PA07可以配置为USB的DP和DM.
+
+.. note::
+   **PA19** 默认为复位引脚, 在 **上电** 和 **poweroff** 模式下均为 **上拉输入模式**.
+
+   硬件电路上需要特别注意, **PA19** 在 **poweroff** 模式下不能输出低电平.
