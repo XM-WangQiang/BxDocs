@@ -6,8 +6,10 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
+from datetime import date
+
 project = 'B6x Docs'
-copyright = '2023-2025, XIAOMAN'
+copyright = "2003-%d, XIAOMAN" % date.today().year
 author = 'XIAOMAN-AI'
 release = ''
 
@@ -43,3 +45,6 @@ html_theme = 'sphinx_rtd_theme'
 html_static_path = ['_images']
 html_show_sphinx = False
 html_title = ''
+# If not '', a 'Last updated on:' timestamp is inserted at every page bottom,
+# using the given strftime format.
+html_last_updated_fmt = "%Y-%m-%d"
