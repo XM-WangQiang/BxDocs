@@ -9,7 +9,7 @@
 from datetime import date
 
 project = 'B6x Docs'
-copyright = "2003-%d, XIAOMAN" % date.today().year
+copyright = '2023-%d, XIAOMAN' % date.today().year
 author = 'XIAOMAN-AI'
 release = ''
 
